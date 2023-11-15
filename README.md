@@ -1,5 +1,4 @@
-### Title
-Enhancing Movie Recommender Accuracy - A Comprehensive Study on Hyperparameter Optimization and Genre-Specific Error Analysis in Spark
+<h1 align="center">Enhancing Movie Recommender Accuracy - A Comprehensive Study on Hyperparameter Optimization and Genre-Specific Error Analysis in Spark</h1>
 
 ### Overview
 This project by Sai Sanwariya Narayan aims to enhance the accuracy of a movie recommendation system built in Apache Spark. It focuses on optimizing hyperparameters of an ALS (Alternating Least Squares) model and conducting a detailed error analysis by genre. The study includes tasks like computing average prediction error for movies and genres, analyzing the impact of review count on prediction error, and employing Spark DataFrame and RDD transformations for effective data processing.
